@@ -241,7 +241,7 @@ corr = df_work[numeric_cols].corr()
 sns.heatmap(corr, annot=True, fmt='.2f', cmap='coolwarm', ax=axes[1, 1])
 ```
 
-<img src="GRAPHE n 1.png" style="height:500px;margin-right:350px"/>
+<img src="GRAPHE n 1.png" style="height:600px;margin-right:450px"/>
 
 **Interprétation :**
 
